@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 09 23:17:57 2018
-
-@author: Administrator
-"""
-
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
